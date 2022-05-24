@@ -1,4 +1,4 @@
-## Challenge Data Analys
+## Challenge Data Analysis
 Para un correcto deploy en un entorno virtual de este proyecto, deberas seguir los siguientes pasos
 ### Pasos
 
